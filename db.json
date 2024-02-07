@@ -1,0 +1,36 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "JuicWrld",
+      "url": "https://m.media-amazon.com/images/I/71dzE3h3JoL._AC_UF1000,1000_QL80_.jpg",
+      "embedLink": "https://www.youtube.com/embed/mzB1VGEGcSU"
+    },
+    {
+      "id": "3",
+      "caption": "Eminem",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/35/The_Eminem_Show.jpg",
+      "embedLink": "https://www.youtube.com/embed/8CdcCD5V-d8"
+    },
+    {
+      "id": "5",
+      "caption": "Leo",
+      "url": "https://static.toiimg.com/thumb/imgsize-23456,msid-104576943,width-600,resizemode-4/104576943.jpg",
+      "embedLink": "https://www.youtube.com/embed/ueQg4OdNpMM"
+    },
+    {
+      "id": "6",
+      "caption": "8Miles",
+      "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqCAFROphgkpjaiPml3AYcu__XqTNMG4d1gTsoGw9W90sM8hS9",
+      "embedLink": "https://www.youtube.com/embed/axGVrfwm9L4"
+    },
+    {
+      "id": "7",
+      "caption": "StarBoy",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
+      "embedLink": "https://www.youtube.com/embed/34Na4j8AVgA"
+    }
+  ],
+  "categories": [],
+  "history": []
+}
